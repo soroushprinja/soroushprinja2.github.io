@@ -48,9 +48,9 @@ const educationInfo = [
 
 const projects = [
     {
-        projectName: "Android To-Do List App",
+        projectName: "Unit Converter",
         projectDesc: "Built a feature-rich Android app using Kotlin and Jetpack Compose with complete CRUD operations and modern UI design.",
-        githubLink: "https://github.com/soroushprinja/todo-app"
+        githubLink: "https://github.com/soroushprinja/UnitConveter"
     },
     {
         projectName: "AI Price Prediction Bot",
